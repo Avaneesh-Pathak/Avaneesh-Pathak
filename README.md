@@ -1,5 +1,8 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE)](https://Avaneesh-Pathak.io)
 <h1 align="center">Hi 👋, I'm Avaneesh Pathak</h1>
 <h3 align="center">A passionate Data Science Learner</h3>
+
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaneesh-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="avaneesh-pathak" /> </p>
 
